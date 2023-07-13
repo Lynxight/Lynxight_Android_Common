@@ -8,6 +8,7 @@ import com.lynxight.common.managers.SiteData;
 import java.util.ArrayList;
 
 public class AlertData {
+    private int dummy =1;
     public String alertSrc;
     public String msgId;
     public String alertType;
